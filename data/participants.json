@@ -448,16 +448,15 @@
             "twitter"  : "",
             "referral" : ""
 	    },
-	    {
-	        "name"	:"Nikhil Goyal",
-	    		"imageurl" : "",
-	    		"about"   :"Willing  to learn along the way",
-	    		"college" :"IIIT, Allahabad",
-	    		"facebook" : "",
-	    		"github" : "https://github.com/Slimshadynick",
-	    		"twitter" : "",
-	        "referral" : ""
+	  {
+            "name"     : "Rishabh Shukla",
+            "imageurl" : "assets/img/participants/blurry.jpeg",
+            "about"    : "I'm a learner",
+            "college"  : "IIIT Lucknow",
+            "facebook" : "https://www.facebook.com/firela007",
+            "github"   : "https://github.com/Firela",
+            "twitter"  : "",
+            "referral" : ""
 	    }
-
-    ]
+  ]
 }
